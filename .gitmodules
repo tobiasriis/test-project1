@@ -2,3 +2,8 @@
 	path = Trust-Code/odoo-brasil
 	url = git@github.com:Trust-Code/odoo-brasil.git
 	branch = 12.0
+
+[submodule "hootel/hootel"]
+	path = hootel/hootel
+	url = git@github.com:hootel/hootel.git
+	branch = 12.0
