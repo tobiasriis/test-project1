@@ -7,3 +7,8 @@
 	path = hootel/hootel
 	url = git@github.com:hootel/hootel.git
 	branch = 12.0
+
+[submodule "tobiasriis/custom_package_barcode"]
+	path = tobiasriis/custom_package_barcode
+	url = git@github.com:tobiasriis/custom_package_barcode.git
+	branch = main
